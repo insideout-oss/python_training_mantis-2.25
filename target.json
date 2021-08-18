@@ -1,0 +1,14 @@
+{
+  "web": {
+    "baseUrl": "https://localhost/mantisbt-2.25.2/"
+  },
+  "webadmin": {
+    "username": "administrator",
+    "password": "root"
+  },
+  "ftp": {
+    "host": "localhost",
+    "username": "mantis",
+    "password": "mantis"
+  }
+}
